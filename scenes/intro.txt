@@ -1,0 +1,20 @@
+[scene intro]
+
+[date] May 20th
+
+[p-time 02:30]
+DAVID_P: "..."
+DAVID_P: "hey cat."
+DAVID_P: "I've got something"
+CAT_P: "What? Wait you've figured something out?"
+DAVID_P: "well, yes and no... it's about the disappearance."
+CAT_P: "May? Blue?"
+CAT_P: "This has been stressing me out, well, all of us out"
+CAT_P: "...so just spit it out."
+DAVID_P: "it's complicated"
+CAT_P: "David if there's one thing we've learned in all this mess, it's that everything is always complicated."
+DAVID_P: "she never really disappeared"
+DAVID_P: "maybe I should just start this at the beginning"
+CAT_P: "From the start then."
+
+[goto blue_intro]
