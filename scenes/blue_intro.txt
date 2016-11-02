@@ -1,6 +1,6 @@
 [scene blue_intro]
 
-[date]September 15th, the previous year
+[date] September 15th, the previous year
 
 The front park is pleasant at this time of day and at no other.
 The Pierce Administration Building, that I'm sketching now, dominates the few trees that line the quad.
@@ -101,7 +101,7 @@ BLUE: "Sorry to go off on a tangent here, but, you're a freshman, right?"
 DAVID: "Right."
 BLUE: "I'm sure everyone asks you all the time about how you like it here, or about how the first few weeks are going at Emeryville U. I know I didn't have a good answer to that until at least two years in."
 BLUE: "Where's home?"
-DAVID: "Ohio. You've never heard of the town."
+DAVID: "Ohio. Bowing, Ohio, specifically, but you've never heard of the town."
 BLUE: "Rural?"
 DAVID: "Even more than out here. My graduating class could fit in my calc lecture."
 BLUE: "Wow, I can hardly imagine. Then... everyone knows each other?"
@@ -142,8 +142,77 @@ DAVID: "What the - "
 That white-blue on screen takes shape. Before I can finish falling out of my chair, it turns forward and lunges and I glimpse an a deformed snake with gleaming diamond scales and hundreds of blinking eyes dotting its ribbed belly.
 By the time I finish righting myself, the screen is black. Just "GAME OVER."
 BLUE: "Sorry David, sorry, that wasn't supposed to happen! Dammit May, I thought we were turning creatures off for this version, I'm messaging you as soon as I get back... This has got..."
-BLUE: "I'm really sorry about that. I'm not the only one working on this, and different people have different ideas on what makes for a good experience."
+She tucks a stray lock under the sunglasses holding back her hair.
+BLUE: "I've got to apologize for that. I'm not the only one working on this, and different people have different ideas on what makes for a good experience."
 DAVID: "Oh, that's fine.... I guess. I just wasn't expecting it. What the hell was that?"
-BLUE: "
+BLUE: "Well, see, in the first place all you could do was explore caves, but lately our AI programmer's been adding in some uh, more creative elements..."
+BLUE: "It's hard to keep track of a team where everyone's got a different vision. I mean no one's paid so..."
+BLUE: "This must be boring for you, sorry. The politics of people, and all."
+BLUE: "...Something catch your eye?"
+Her laptop's still facing me.
+(You need to stop getting distracted by the smallest details)
+GAME OVER is no longer on the screen, replaced by a map of Emeryville University, Emeryville itself, and the rock and farm around it. About a dozen spots on the map are marked with green circles.
+But above it all is flashing...
+DAVID: "'That Hatchway in the Foothills is a Portal to Hell.'"
+And below that the words "Select Next" write themselves over and over again.
+Why it comes off as so menacing I have no idea. But it's definitely more unnerving than the cheap scare in the virtual hexagon hall.
+BLUE: "Oh don't tell me... May's work again, probably..."
+BLUE: "She wanted that to be the title at some point. Don't ask why."
+BLUE: "I really need to start double checking what version I'm demoing to people. It wouldn't do any good to send a copy of this for a department check-in."
+DAVID: "Was that supposed to be some place around here? The basalt cave, I mean."
+BLUE: "No, none of these places could be real. And there aren't exactly any basalt flows around here, right?"
+DAVID: "No."
+DAVID: "And no hell portals either I guess. Interesting as that might be."
+BLUE: "Interesting, huh?"
+I can't say for sure what made say that. Whatever game she's showing off seems just as otherworldly as the whatever cave I'd glimpsed.
+BLUE: "This is what I liked in your sketches, you know. You have the right kind of imagination."
+DAVID: "Trust me, I don't."
+BLUE: "If you're interested I can introduce the team. We're a pretty close group."
+DAVID: "I'm still trying to settle in, sorry. Classes are giving me some trouble too. Maybe clubs or teams or whatever come a little later, but..."
+She smiles with the corner of her mouth and adjusts the sunglasses at her hairline. It doesn't feel like I've disappointed her too badly.
+BLUE: "Don't worry about it. I suppose that was a little out of nowhere."
+BLUE: "Well if you're not looking to join any student groups, you should at least have people in your building you know?"
+DAVID: "Sort of. Not like back home."
+BLUE: "Did you know everyone by name?"
+DAVID: "By face, anyway. I think I'm developing face blindness, though. Everyone at Emerysville is starting to run together."
+What is it about her that makes me volunteer these dumb details? The mood seems to alternate between a job interview and a confessional.
+BLUE: "Hey, I've been out here years and I still can't come close to recognizing everyone in my class."
+DAVID: "I'm pretty sure that's not possible."
+BLUE: "No, maybe not. It's my job to know people though."
+DAVID: "What?"
+BLUE: "Well, not really I guess. My major's digital media. It's sort of an informal job."
+BLUE: "Never mind."
+She glances off into the museum display floor. A couple browses the frontier photos with their young son.
+BLUE: "If you're interested in doing something with those not-real half-real landscapes of yours, come find me, alright?"
+BLUE: "But more importantly, let me know if you end up lost? Literally lost or not. I've been in some rough spots before where I didn't know anyone."
+I don't doubt her sincerity.
+DAVID: "Thanks. I'm doing alright, I guess."
+BLUE: "Don't cut yourself off, okay? If something comes up, or you reconsider..."
+She scribbles something on a sheet of notebook paper then hands it over.
+DAVID: "'blue_well?'"
+BLUE: "That's a PChat handle. You know it, right?"
+DAVID: "It's hard to avoid. No, I have it."
+BLUE: "Good. Add me, feel free to get in touch. I have to run, but I'm sure I'll catch you later."
+DAVID: "Bye."
+BLUE: "I know it's a bad habit, but..."
+She pauses after pushing her laptop back into her bag.
+BLUE: "Who was she? That girl you saw?"
+DAVID: "Who?"
+Annabel, of course.
+(You met this person less than half an hour ago, don't go telling her this sob story)
+BLUE: "It's a bad habit, you don't have to answer. I get caught up with other people's lives too much. Everyone's complicated. Remember that."
+BLUE: "Later, David. Hope to see you again!"
+DAVID: "You too."
+I stay in my seat. There's another hour until I even need to think about being someplace.
+One of the topographical maps on the museum wall catches my eye. Sort of looks like that map Blue had open.
+I must be a terrible judge of character but she seemed trustworthy enough. Actually I'm pretty sure that's the longest I've talked with a stranger since I've gotten here.
+(You're not in Bowing any more. They're not strangers, just people)
+Has it really been that long since I've been around people I could talk to, or is that some special quality of Blue?
+DAVID: "Blue Well, huh..."
+I was originally planning to bury this single looseleaf page somewhere between my psych notes and that battered welcome packet I picked up a few weeks ago, but I fold it into my pocket.
+I'll keep her in mind.
+Now that she's five minutes gone, Blue's disarming... whatever that was... seems to be gone. I don't know why I'd need to contact her anyway.
+And of course Annabel's around. Or her doppelganger.
+It looks like whatever pans out I'm going to have a familiar face. But a friendly face?
 
-
+[goto marco_intro]
