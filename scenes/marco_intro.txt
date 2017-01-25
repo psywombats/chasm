@@ -1,0 +1,93 @@
+[scene marco_intro]
+
+It's evening by the time I head back to my room.
+I pass the main field, and of course, walk by the Pierce Building. The spotlights hidden in the bushes hit the awnings on the entrance and windows, casting harsh-edged shadows onto the concrete.
+It reminds me of something I drew once. The surface of the earth was glass, and at the center of the earth was a tiny star. Everyone glowed from the bottom.
+It wasn't supposed to be a vision of a utopia, per se, but it was more pleasant than looking at this beast.
+DAVID: "Just ugly."
+My dorm isn't suited to my tastes. The Welland Building. The whole thing is concrete blocks painted over in gaudy white. At least the thing has windows that don't look like dungeon cells.
+As I walk up the stairs, I catch laughter from down the hall, muffled by the swathes of fabric hanging on the interior walls. At least someone's having a good time.
+But when I get to my room (second floor, right over the entrance) the door is... cracked open.
+My fingers clench into fists as I stumble half a step.
+The light's on.
+DAVID: "Anybody there?"
+No answer.
+With my heartrate up more than I'd want to admit, I reapproach my room. This is definitely the right room, right? That's "David Lane" printed on the front.
+But when I look inside, something is foreign.
+Where for half a month there's been a bare mattress leaning against the side wall, there's now a bed, complete with actual sheets.
+And a computer set up on a desk?
+I must have...
+MARCO_?: "Who are you?"
+DAVID: "What the - "
+I almost stumble backward into my bed.
+There's this... someone... in my room.
+Is he...?
+MARCO_?: "Do you live here?"
+DAVID: "I guess I do now. Are you..."
+MARCO_?: "You're my roommate, looks like."
+MARCO_?: "Lane?"
+DAVID: "David Lane, yeah. Roommate? Are you... I thought my roommate never showed up?"
+I have no idea where he came from. I thought I had been paying attention on my walk down the corridor of the second story of the Welland Building, but he seems to have teleported behind me.
+MARCO_?: "I'm Marco. At least that's what student life's got posted."
+DAVID: "Marco?"
+He doesn't seem in any rush to get rid of me, but not really entertained by my presence either. Before he speaks, he always seems to squeeze the headphones around his neck.
+MARCO: "I'm moving in."
+DAVID: "Wait, hang on. You're a freshman then? I thought my roommate was - "
+MARCO: "No, my roommate dropped out. He was arrested last May. He's not coming back."
+DAVID: "Then you're..."
+MARCO: "This is my second year. Didn't anyone contact you?"
+DAVID: "No. My first roommate was a no-show."
+MARCO: "Funny."
+But he's not laughing.
+MARCO: "Guess that makes you a freshman?"
+DAVID: "Yeah. Sorry."
+He holds out his hand. I restrain the impulse to flinch. He's a decent amount bigger than me and I have no doubt what would happen if he was actually unfriendly.
+He saw my reaction, no doubt. Marco raises an eyebrow.
+MARCO: "I don't bite."
+DAVID: "I didn't mean to... I've only been here..."
+It's a little hard to express to him. The only people I've ever shared a living space with would be blodd relative, mostly my grandfather. A tall stranger...
+DAVID: "My pleasure."
+MARCO: "..."
+He shakes my hand, but as he walks into my room (our room?) he's nonplussed.
+DAVID: "You're not a freshman then?"
+MARCO: "Sophomore."
+DAVID: "What're you here for then?"
+MARCO: "Hm?
+DAVID: "Like... Your major?"
+MARCO: "You make it sound like jail."
+MARCO: "Petrol. Petroleum engineering."
+He's already sitting at the desk chair across the room.
+I feel like I'm boring him. He only responds in a monotone, and I'm left standing here in the middle of the room like an idiot.
+A more than cool breeze blows through the window. Marco doesn't even turn around as I move over to close it.
+DAVID: "That's... Oil?"
+(Of course it's oil, you idiot. You already know this. Don't talk to someone who clearly doesn't want to talk.)
+MARCO: "Mostly. It's not that important."
+I thought your major was what was most important to you.
+DAVID: "I'm from..."
+It seems useless to give him any biographical info. If he won't even turn around in his chair to face me in the first five minutes of knowing him, what good is any of this?
+A permanent stranger?
+MARCO: "My parents are musicians. Seperated. Went to the Performing Artist Education and Instruction School."
+DAVID: "You're an actor?"
+MARCO: "No..."
+His tone is somewhere between bitter and exasperated.
+MARCO: "Just a guy."
+DAVID: "Performing artist's academy, then..."
+MARCO: "For kids who move around too much for regular school."
+He finally gets out of his chair to face me. I'm not use to facing people a foot taller than me.
+MARCO: "I'm really not anyone important."
+DAVID: "Me neither."
+MARCO: "Ha."
+I'd put his tone at somewhere around sarcasm, but for the first time I've seen him, his eyebrows move up.
+MARCO: "Turns out no one's really important right?"
+DAVID: "Ashes to ashes and all."
+MARCO: "David, eh?"
+He offers a hand again. I shake it, again. I can't fathom his motivation. Is this normal outside of Bowing, Ohio? I don't think - 
+MARCO: "I'll try my best."
+DAVID: "What?"
+MARCO: "We're roommates of necessity, right?"
+DAVID: "I guess. Did you just get here today?"
+MARCO: "They were keeping me in a single the other side of campus. I would've preferred it."
+Would I have preferred that matress be kept propped against the wall?
+Or is this... guy, one year older than me, any better.
+MARCO: "You seem alright though."
+DAVID: "Alright."

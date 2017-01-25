@@ -14,10 +14,10 @@ Thumbs.db
 
 # Unity garbage #
 #################
-chasm/Library/*
-chasm/Temp/*
+chasm_game/Library/*
+chasm_game/Temp/*
 
 # Visual Studio garbage #
 #########################
 *.sln
-chasm/.vs/*
+chasm_game/.vs/*
